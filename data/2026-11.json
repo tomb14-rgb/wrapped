@@ -2867,7 +2867,7 @@
  },
  "personality": {
   "title": "The pop loyalist",
-  "line": "38 in every 100 plays are pop or hip-hop/rap.",
+  "line": "38 in every 100 plays are pop or hip-hop.",
   "inputs": {
    "plays_per_song": 6.77,
    "time_of_day": null,
@@ -3025,6 +3025,6 @@
   "sampled": true
  },
  "source": "library",
- "built_at": "2026-11-24T23:38:24+01:00",
- "artwork_requests": 16
+ "built_at": "2026-11-24T23:39:48+01:00",
+ "artwork_requests": 0
 }
